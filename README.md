@@ -45,13 +45,13 @@
 ---
 
 ## 📊 **Md Rakibul Hassan's GitHub Stats**  
-<p align="center">
+<p align="left">
   <!-- GitHub Stats with Python-themed icon -->
   <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight&icon_color=FFD43B" alt="GitHub Stats">
 </p>
 
 <!-- Align Most Used Languages below GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 
