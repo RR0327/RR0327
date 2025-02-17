@@ -59,13 +59,8 @@
 </p>
 
 <!-- Align Most Used Languages below GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</p>
-
-<!-- GitHub Streak Section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RR0327&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 
 <!-- Total Contributions Section -->
