@@ -51,6 +51,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
+## GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight&icon_color=FFD43B" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RR0327&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true" alt="Total Contributions">
+</p>
 
 
 
