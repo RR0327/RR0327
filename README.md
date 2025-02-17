@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **Md Rakibul Hassan's GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight&icon_color=FFD43B" alt="GitHub Stats">
   <br>
@@ -53,4 +53,4 @@
 
 ---
 
-🚀 **Let’s connect and build something awesome together!**  
+ **Let’s connect and build something awesome together!**  
