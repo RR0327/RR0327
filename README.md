@@ -51,14 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
-## GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight&icon_color=FFD43B" alt="GitHub Stats">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</p>
 
 
 
