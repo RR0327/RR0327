@@ -25,19 +25,28 @@
 
 ## ⚡ **Languages and Tools**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&style=for-the-badge&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black" alt="Linux">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&style=for-the-badge&logoColor=white" alt="Arduino">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white" alt="Django">
+  </a>
+  <a href="https://www.tinkercad.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tinkercad-FF5722?logo=tinkercad&style=for-the-badge&logoColor=white" alt="Tinkercad">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black" alt="Linux">
+  </a>
 </p>
 
 ---
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=tokyonight&icon_color=FFD43B" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
