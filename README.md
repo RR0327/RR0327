@@ -46,12 +46,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="icon" alt="Python">
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Arduino_Logo.svg" class="icon" alt="Arduino">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" class="icon" alt="Django">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tinkercad_Logo.svg" class="icon" alt="Tinkercad">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" class="icon" alt="Linux">
         </div>
     </div>
 </body>
 </html>
+
 
 
 
