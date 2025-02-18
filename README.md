@@ -1,21 +1,59 @@
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#1e1e2e"/>
-    
-    <!-- Python Logo -->
-    <text x="5%" y="50%" font-size="40" fill="#ffd43b" font-family="Arial, sans-serif" font-weight="bold">
-        Python Programming
-    </text>
-    
-    <!-- Robotics Icon -->
-    <text x="40%" y="50%" font-size="40" fill="#00ffcc" font-family="Arial, sans-serif" font-weight="bold">
-        | Robotics
-    </text>
-    
-    <!-- Embedded Systems Icon -->
-    <text x="65%" y="50%" font-size="40" fill="#ff6699" font-family="Arial, sans-serif" font-weight="bold">
-        | Embedded Systems
-    </text>
-</svg>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Banner</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .banner {
+            width: 100%;
+            height: 250px;
+            background: linear-gradient(to right, #000428, #004e92);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .text {
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .icon {
+            width: 50px;
+            height: 50px;
+            margin: 10px;
+        }
+        .icons {
+            position: absolute;
+            bottom: 20px;
+            display: flex;
+            gap: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="text">Python | Robotics | Embedded Systems</div>
+        <div class="icons">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="icon" alt="Python">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Arduino_Logo.svg" class="icon" alt="Arduino">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" class="icon" alt="Django">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tinkercad_Logo.svg" class="icon" alt="Tinkercad">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" class="icon" alt="Linux">
+        </div>
+    </div>
+</body>
+</html>
+
+
 
 # Hi 👋, I'm Md Rakibul Hassan  
 ## Computer Science Undergraduate | Robotics & Python Enthusiast  
