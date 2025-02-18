@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/RR0327/background-image/main/github.png)
 
-# Hi 👋, I'm Md Rakibul Hassan  
-## Computer Science Undergraduate | Robotics & Python Enthusiast  
+<h1 align="center">Hi 👋, I'm Md Rakibul Hassan</h1>  
+<h1 align="center">Computer Science Undergraduate | Robotics & Python Enthusiast</h1> 
 
 🌱 I’m currently exploring **Python development, robotics, and embedded systems**  
 🔭 I love working with **Arduino, microcontrollers, and real-world automation projects**  
