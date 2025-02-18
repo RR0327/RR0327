@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/RR0327/background-image/main/github.png)
+![logo](https://raw.githubusercontent.com/RR0327/background-image/main/github.jpg)
 
 <h1 align="center">Hi 👋, I'm Md Rakibul Hassan</h1>  
 <h1 align="center">Computer Science Undergraduate | Robotics & Python Enthusiast</h1> 
