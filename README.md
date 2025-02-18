@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RR0327/background-image/main/github.png" alt="GitHub Banner">
-</p>
+![logo](https://raw.githubusercontent.com/RR0327/background-image/main/github.png)
 
 # Hi 👋, I'm Md Rakibul Hassan  
 ## Computer Science Undergraduate | Robotics & Python Enthusiast  
