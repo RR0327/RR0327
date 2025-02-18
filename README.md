@@ -1,3 +1,22 @@
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#1e1e2e"/>
+    
+    <!-- Python Logo -->
+    <text x="5%" y="50%" font-size="40" fill="#ffd43b" font-family="Arial, sans-serif" font-weight="bold">
+        Python Programming
+    </text>
+    
+    <!-- Robotics Icon -->
+    <text x="40%" y="50%" font-size="40" fill="#00ffcc" font-family="Arial, sans-serif" font-weight="bold">
+        | Robotics
+    </text>
+    
+    <!-- Embedded Systems Icon -->
+    <text x="65%" y="50%" font-size="40" fill="#ff6699" font-family="Arial, sans-serif" font-weight="bold">
+        | Embedded Systems
+    </text>
+</svg>
+
 # Hi 👋, I'm Md Rakibul Hassan  
 ## Computer Science Undergraduate | Robotics & Python Enthusiast  
 
