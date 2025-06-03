@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md Rakibul Hassan</h1>  
 <h1 align="center">Computer Science Undergraduate | Robotics & Python Enthusiast</h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RR0327&label=Profile%20views&color=0e75b6&style=flat" alt="shaikat020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RR0327&label=Profile%20views&color=0e75b6&style=flat" alt="RR0327" /> </p>
 
 🌱 I’m currently exploring **Python development, robotics, and embedded systems**  
 🔭 I love working with **Arduino, microcontrollers, and real-world automation projects**  
