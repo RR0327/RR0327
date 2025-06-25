@@ -56,6 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </p>
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=RR0327&column=8)
 
 ---
 
