@@ -20,7 +20,7 @@
 - 🔭 I'm currently working on **Python projects and robotics**
 - 🌱 I'm learning **embedded systems and automation**
 - 👯 I'm looking to collaborate on **interesting Python or robotics projects**
-- 💬 Ask me about **Python, C/C++, or Arduino projects**
+- 💬 Ask me about **Python, C/C++, web development, or Arduino projects**
 - 📫 How to reach me: **rakibulhassanmiyaji27@gmail.com**
 - ⚡ Fun fact: I enjoy building **smart systems that blend hardware and software!**
 
