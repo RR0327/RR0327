@@ -70,7 +70,7 @@ Backend-integrated intelligent automation system
 - Integrated backend processing with real-world data inputs  
 - Focused on organizing data flow and control logic within the system  
 
-[Repository](https://github.com/RR0327/Capstone-Project)
+[Repository](https://github.com/RR0327/Capstone-Project-Tech-Innovators)
 
 ---
 
