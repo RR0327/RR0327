@@ -142,11 +142,21 @@ Backend event management system
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&theme=default&hide_border=true"/>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RR0327&theme=github" 
+        width="495" 
+        height="195"
+        alt="GitHub Stats"
+      />
     </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=RR0327&hide_border=true"/>
+    <td align="center" width="50%">
+      <img 
+        src="https://streak-stats.demolab.com?user=RR0327&theme=default&hide_border=true&v=3" 
+        width="495" 
+        height="195"
+        alt="GitHub Streak"
+      />
     </td>
   </tr>
 </table>
