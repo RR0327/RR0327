@@ -70,7 +70,9 @@ Backend-integrated intelligent automation system
 - Integrated backend processing with real-world data inputs  
 - Focused on organizing data flow and control logic within the system  
 
-[Repository](https://github.com/RR0327/Capstone-Project-Tech-Innovators)
+<!-- [Repository](https://github.com/RR0327/Capstone-Project-Tech-Innovators) -->
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RR0327/Capstone-Project-Tech-Innovators)
 
 ---
 
@@ -82,7 +84,9 @@ Multi-module backend system
 - Designed interaction flow between multiple modules within the system  
 - Focused on maintaining clarity and separation of concerns  
 
-[Repository](https://github.com/RR0327/All-In-One-University)
+<!-- [Repository](https://github.com/RR0327/All-In-One-University) -->
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RR0327/All-In-One-University)
 
 ---
 
@@ -93,7 +97,9 @@ Backend event management system
 - Structured data flow for handling event creation and coordination  
 - Focused on clean architecture and maintainable backend design  
 
-[Repository](https://github.com/RR0327/Campus-Events-Hub) 
+<!-- [Repository](https://github.com/RR0327/Campus-Events-Hub) -->
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RR0327/Campus-Events-Hub)
 
 ---
 
@@ -103,7 +109,9 @@ Backend event management system
 - Structured communication and coordination logic for events  
 - Applied backend concepts in a real-world organizational context  
 
-[Repository](https://github.com/RR0327/BAIUST-Robotics-Society-BARS)
+<!-- [Repository](https://github.com/RR0327/BAIUST-Robotics-Society-BARS) -->
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RR0327/BAIUST-Robotics-Society-BARS)
 
 ---
 
