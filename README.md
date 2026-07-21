@@ -72,7 +72,7 @@ Backend-integrated intelligent automation system
 
 <!-- [Repository](https://github.com/RR0327/Capstone-Project-Tech-Innovators) -->
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RR0327/CapstoneProject-Tech_Innovators)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RR0327/Capstone-Project-tech_innovators)
 
 ---
 
