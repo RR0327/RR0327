@@ -60,6 +60,17 @@ Computer Science undergraduate focused on designing backend systems that integra
 
 ---
 
+### Documentation and Research Tools
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+- Prepare structured technical and academic documentation
+- Work with LaTeX research-paper templates
+- Manage references and citations using BibTeX
+
+---
+
 ## Featured Projects
 
 ### Capstone Research Project  
