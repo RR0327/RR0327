@@ -163,21 +163,22 @@ Backend event management system
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=RR0327&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800"
+        src="https://github-stats-failover-cu7k.vercel.app/api/github-card?type=stats&amp;source=auto"
         alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=RR0327"
+        src="https://github-stats-failover-cu7k.vercel.app/api/github-card?type=streak&amp;source=auto"
         alt="GitHub Streak"
       />
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR0327&layout=compact"
+        src="https://github-stats-failover-cu7k.vercel.app/api/github-card?type=languages&amp;source=auto"
         alt="Top Languages"
       />
     </td>
